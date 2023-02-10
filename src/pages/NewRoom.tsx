@@ -62,4 +62,4 @@ export function NewRoom () {
     )
 }
 
-//typeof é type="submit"
+
