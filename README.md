@@ -5,7 +5,7 @@
 <p align="center">
   
 
-> <b>Let Me Ask</b> é uma plataforma que permite que o usuário possa criar perguntas e essa perguntas poderão receber votações de relevancia.O software foi construido em React com typeScript e firebase ,e é um projedo da Rocketseat feito na NLW #Together..
+> <b>Let Me Ask</b> é uma plataforma que permite que o usuário possa criar perguntas e essa perguntas poderão receber votações de relevancia.O software foi construido em React com typeScript e firebase ,e é um projedo da Rocketseat feito na NLW #Together...
 
 
 # :pushpin: Conteúdo
